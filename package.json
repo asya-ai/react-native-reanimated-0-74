@@ -92,13 +92,13 @@
     "invariant": "^2.2.4"
   },
   "peerDependencies": {
-    "@babel/core": "^7.0.0-0",
+    "@babel/core": "*",
     "react": "*",
     "react-native": "*"
   },
   "devDependencies": {
-    "@babel/cli": "^7.20.0",
-    "@babel/core": "^7.20.0",
+    "@babel/cli": "*",
+    "@babel/core": "*",
     "@babel/preset-env": "^7.20.0",
     "@babel/types": "^7.20.0",
     "@react-native/eslint-config": "^0.72.2",
