@@ -92,9 +92,9 @@
     "invariant": "^2.2.4"
   },
   "peerDependencies": {
-    "@babel/core": "*",
-    "react": "*",
-    "react-native": "*"
+    "@babel/core": "^7.0.0-0",
+    "react": "18.2.0",
+    "react-native": "0.73.6"
   },
   "devDependencies": {
     "@babel/cli": "*",
