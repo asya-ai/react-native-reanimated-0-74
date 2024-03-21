@@ -89,9 +89,7 @@
     "@babel/plugin-transform-template-literals": "^7.0.0-0",
     "@babel/preset-typescript": "^7.16.7",
     "convert-source-map": "^2.0.0",
-    "invariant": "^2.2.4"
-  },
-  "peerDependencies": {
+    "invariant": "^2.2.4",
     "@babel/core": "^7.0.0-0",
     "react": "18.2.0",
     "react-native": "0.73.6"
