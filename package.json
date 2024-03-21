@@ -95,8 +95,8 @@
     "react-native": "0.73.6"
   },
   "devDependencies": {
-    "@babel/cli": "*",
-    "@babel/core": "*",
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3",
     "@babel/preset-env": "^7.20.0",
     "@babel/types": "^7.20.0",
     "@react-native/eslint-config": "^0.72.2",
